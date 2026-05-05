@@ -56,16 +56,16 @@ index=main "4625" | stats count by host
 ![Windows](Screenshots/event-viewer-4625-logs.png)
 
 ### Event Viewer Logs Details
-![Windows](screenshots/event-viewer-logs-details.png)
+![Windows](Screenshots/event-viewer-logs-details.png)
 
 ### Splunk Search Results
-![Splunk](screenshots/splunk-4625-search-results.png)
+![Splunk](Screenshots/splunk-4625-search-results.png)
 
 ### Splunk Analysis(Stats by Host)
-![Splunk host](screenshots/splunk-4625-stats-by-host.png)
+![Splunk host](Screenshots/splunk-4625-stats-by-host.png)
 
 ### Splunk Analysis
-![Splunk](screenshots/splunk-4625-logs.png)
+![Splunk](Screenshots/splunk-4625-logs.png)
 
 ---
 ## 🧠 Key Findings
